@@ -1,2 +1,3 @@
 This is my first file.
 The file is modified by GitDemo from Asia.
+The file is modified by GitStuff from US.
