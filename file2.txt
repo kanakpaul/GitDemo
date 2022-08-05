@@ -1,2 +1,0 @@
-This is our second file
-Hello from Gitdemo
