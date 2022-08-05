@@ -1,3 +1,2 @@
 This is my first file.
 The file is modified by GitDemo from Asia.
-a new line of code is added by GitDemo from Asia.
